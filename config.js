@@ -9,20 +9,20 @@ global.setting = {
  }
 
 global.owner = [
-['212717457920', 'Nour', true],
-['212605784394', 'silana', false],
+['201224563219', 'Naruto', true],
+['201096377557', 'Black-Hacker', true],
 ['', '', false]
 ]
 
 global.info = {
- nomerbot: '212605784394',
- pairingNumber: '212693227969',
- nameown: 'Nour',
- nomerown: '212717457920',
+ nomerbot: '201147367497',
+ pairingNumber: '201096377557',
+ nameown: 'Naruto',
+ nomerown: '201224563219',
  packname: 'sticker by ',
- author: 'Noureddine',
+ author: 'Itachi_bot',
  namebot: 'ꜱɪʟᴀɴᴀ',
- wm: ''-'_꩜ 𝘚𝘪𝘭𝘢𝘯𝘢 𝘣𝘰𝘵 ꩜_'-'',
+ wm: ''-'_꩜ 𝐼𝑇𝐴𝐶𝐻𝐼_𝐵𝑂𝑇 ꩜_'-'',
  stickpack: 'Whatsapp',
  stickauth: 'ꜱɪʟᴀɴᴀ ʙᴏᴛ '
 }
